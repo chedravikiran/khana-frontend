@@ -4,7 +4,7 @@ import Header from "../../assets/components/Header/Header"
 import { assets } from '../../assets2/frontend_assets/assets'
 import ExploreMenu from '../../assets/components/ExploreMenu/ExploreMenu'
 import FoodDisplay from '../../assets/components/FoodDisplay/FoodDisplay'
-import AppDownload from '../../assets/components/AppDownload/AppDOwnload'
+import AppDownload from '../../assets/components/AppDownload/AppDownload'
 
 const Home = () => {
   const [category, setCategory] = useState("All");
